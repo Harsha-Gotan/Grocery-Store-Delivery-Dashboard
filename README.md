@@ -8,6 +8,7 @@ This interactive dashboard provides a comprehensive view of grocery store delive
 
 ## *📂 Data Source*
 - *Kaggle* — Simulated grocery store delivery data used for analysis and visualization.
+- Dataset used - <a href="https://github.com/Harsha-Gotan/Grocery-Store-Delivery-Dashboard/blob/main/Grocery_store_Data.xlsx">Dataset</a>
 
 ## *🌟 Features / Highlights*
 
@@ -34,6 +35,6 @@ To provide a unified analytical platform that tracks delivery metrics across sho
 - *Consistent shop openings* reflect stable expansion, but a slight dip in 2024 may warrant strategic review.
 - *Balanced ratings across shop types* (avg ~3.92) suggest uniform customer satisfaction, with room for improvement.
 
-## Screenshot
+## Dashboard
 
 <img width="1251" height="709" alt="Screenshot 2026-01-01 125934" src="https://github.com/user-attachments/assets/e22516cb-6a35-415d-902e-fe61d2e0f20d" />
