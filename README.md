@@ -1,4 +1,4 @@
-# Grocery-Store-Delivery-Dashboard
+# Grocery-Store-Delivery-Dashboard (Practice Project)
 This interactive dashboard provides a comprehensive view of grocery store delivery performance across various dimensions such as sales, orders, ratings, shop types, and city tiers. Designed for business analysts and retail managers, it enables data-driven decision-making by visualizing key metrics and trends over time.
 
 ## *🛠️ Tech Stack*
